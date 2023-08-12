@@ -1,0 +1,17 @@
+.picture{
+        width: 60%;
+        height: 60%;
+        border: 10px;
+
+}
+
+body{
+    background-color: palevioletred;
+}
+
+.poster{
+    text-align: center;
+    font:  "Libre-baskerville", "serif";
+    width: 40%;
+    margin-left: 25%;
+}
